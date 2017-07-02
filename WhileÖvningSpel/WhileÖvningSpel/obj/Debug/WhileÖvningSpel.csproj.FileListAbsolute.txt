@@ -1,0 +1,6 @@
+c:\users\mike\documents\visual studio 2015\Projects\WhileÖvningSpel\WhileÖvningSpel\bin\Debug\WhileÖvningSpel.exe.config
+c:\users\mike\documents\visual studio 2015\Projects\WhileÖvningSpel\WhileÖvningSpel\bin\Debug\WhileÖvningSpel.exe
+c:\users\mike\documents\visual studio 2015\Projects\WhileÖvningSpel\WhileÖvningSpel\bin\Debug\WhileÖvningSpel.pdb
+c:\users\mike\documents\visual studio 2015\Projects\WhileÖvningSpel\WhileÖvningSpel\obj\Debug\WhileÖvningSpel.exe
+c:\users\mike\documents\visual studio 2015\Projects\WhileÖvningSpel\WhileÖvningSpel\obj\Debug\WhileÖvningSpel.pdb
+C:\Users\Mike\documents\visual studio 2015\Projects\WhileÖvningSpel\WhileÖvningSpel\obj\Debug\WhileÖvningSpel.csprojResolveAssemblyReference.cache
